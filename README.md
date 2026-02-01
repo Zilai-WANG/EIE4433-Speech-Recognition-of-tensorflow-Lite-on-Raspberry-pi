@@ -6,6 +6,16 @@
 
 This repository contains the implementation and deployment codes for my **EIE4433 Honours Project** at **The Hong Kong Polytechnic University (PolyU)**. The project focuses on deploying a lightweight Deep Learning model for real-time speech recognition on embedded edge devices.
 
+## 🏆 Award & Recognition
+
+> [!IMPORTANT]
+> This project was selected as one of the **"2023 Outstanding Works by Students"** by The Hong Kong Polytechnic University.
+
+The work is officially showcased in the PolyU Library collection:
+🔗 **[View Project Showcase: Smart Security Robot](https://ows.lib.polyu.edu.hk/s/ows/page/smart-security-robot)**
+
+---
+
 ## 📖 Project Overview
 
 This project demonstrates the end-to-end pipeline of training a speech recognition model and deploying it on a Raspberry Pi using **TensorFlow Lite (TFLite)**.
